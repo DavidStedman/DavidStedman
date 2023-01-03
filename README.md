@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidStedman
-- 👀 I’m interested in Data Science, using statistics to explore network traffic, learning
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Science, using statistics to explore network traffic, machine learning
+- Learning Data Science is a never ending task
 - 💞️ I’m looking to collaborate on teaching statistics, algorithms and networking 
 - 📫 How to reach me - leave a message
 
